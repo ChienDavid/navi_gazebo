@@ -3,10 +3,10 @@ Indoor navigation of a single robot in Gazebo simulation
 
 
 Commands: run each command on different terminals
-roscore
-roslaunch turtlebot3_gazebo single_turtlebot3_world.launch
-rosrun navi_gazebo globalplanner.py
-rosrun navi_gazebo purepursuit.py
+- roscore
+- roslaunch turtlebot3_gazebo single_turtlebot3_world.launch
+- rosrun navi_gazebo globalplanner.py
+- rosrun navi_gazebo purepursuit.py
 
 
 
